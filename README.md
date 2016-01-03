@@ -11,13 +11,16 @@ Personal goals made open source for accessibility across computers I use, transp
 1. 📷 Get into photography
 1. 📰️ Write more
 
-# December 28, 2015
-### This Week's Focus: decluttering & planning
+# January 4, 2015
+### This Week's Focus: Get back to work
 
 ## Things I'll do This Week:
-- [ ] Setup Trello boards (including [one just for 2016](https://github.com/gnclmorais/weekello))
-- [ ] Setup a gratitude journal
-- [ ] Meet old & new [Recursers](https://www.recurse.com/)
+- [ ] Change Three plan
+- [ ] Mail stickers to a friend
+- [ ] Go back to Camden and buy pendant
+- [ ] Move Evernote notes about blogposts to Trello
+- [ ] Start with ES6
+- [ ] Watch the new Star Wars movie
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
@@ -36,3 +39,10 @@ Personal goals made open source for accessibility across computers I use, transp
   - [Technical books](/media/tech-books.md)
   - [To watch](/media/watch.md)
 
+---
+
+# The Process
+
+Every Sunday I try to plan the upcoming week (starts at Monday). Each week will
+have its own file on [/accomplishments](/accomplishments), where I’ll add its
+focus, upcoming tasks, and how well I did on them.
