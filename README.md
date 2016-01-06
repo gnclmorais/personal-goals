@@ -15,11 +15,11 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus: Get back to work
 
 ## Things I'll do This Week:
-- [ ] Change Three plan
-- [ ] Mail stickers to a friend
+- [x] Change Three plan
+- [ ] ~~Mail stickers to a friend~~ [Postponed to be personally handed]
 - [ ] Go back to Camden and buy pendant
 - [ ] Move Evernote notes about blogposts to Trello
-- [ ] Start with ES6
+- [ ] Start with ES2015
 - [ ] Watch the new Star Wars movie
 
 ### Things I'll Do in the Future:
