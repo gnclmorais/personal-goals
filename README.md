@@ -11,16 +11,14 @@ Personal goals made open source for accessibility across computers I use, transp
 1. 📷 Get into photography
 1. 📰️ Write more
 
-# January 4, 2015
-### This Week's Focus: Get back to work
+# January 11, 2015
+### This Week's Focus: Nail down some JS talks
 
 ## Things I'll do This Week:
-- [x] Change Three plan
-- [ ] ~~Mail stickers to a friend~~ [Postponed to be personally handed]
-- [ ] Go back to Camden and buy pendant
-- [ ] Move Evernote notes about blogposts to Trello
-- [ ] Start with ES2015
-- [ ] Watch the new Star Wars movie
+- [ ] Hangout to brainstorm JS talks
+- [ ] Puzzle Pint
+- [ ] [Alien Ant Farm](https://www.youtube.com/watch?v=CDl9ZMfj6aE) concert
+- [ ] _[Hateful Eight](http://www.imdb.com/title/tt3460252/)_ in 70mm
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
