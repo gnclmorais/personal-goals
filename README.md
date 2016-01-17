@@ -11,14 +11,18 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# January 11, 2015
-### This Week's Focus: Nail down some JS talks
+# January 17, 2015
+### This Week's Focus: Get social
 
 ## Things I'll do This Week:
-- [ ] Hangout to brainstorm JS talks
-- [ ] Puzzle Pint
-- [ ] [Alien Ant Farm](https://www.youtube.com/watch?v=CDl9ZMfj6aE) concert
-- [ ] _[Hateful Eight](http://www.imdb.com/title/tt3460252/)_ in 70mm
+- [ ] Watch the new _Star Wars_ movie
+- [ ] Read the other 2015’s articles from [12 Devs of Xmas](http://12devsofxmas.co.uk/category/2015)
+- [ ] Meet the other 2015’s authors from [12 Devs of Xmas](http://12devsofxmas.co.uk/category/2015)
+- [ ] Select the next 3 projects to focus on (either dev or design)
+- [ ] Special bug squash @ BridgeU
+- [ ] Check Lombardo’s _Open Jungle_ project
+- [ ] Try to setup May trip
+- [ ] Catchup on emails
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
