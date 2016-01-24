@@ -11,23 +11,23 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# January 17, 2015
-### This Week's Focus: Get social
+# January 25, 2015
+### This Week's Focus: Finish 1st round of talk proposals
 
 ## Things I'll do This Week:
-- [ ] Watch the new _Star Wars_ movie
-- [ ] Read the other 2015’s articles from [12 Devs of Xmas](http://12devsofxmas.co.uk/category/2015)
-- [ ] Meet the other 2015’s authors from [12 Devs of Xmas](http://12devsofxmas.co.uk/category/2015)
-- [ ] Select the next 3 projects to focus on (either dev or design)
-- [ ] Special bug squash @ BridgeU
-- [ ] Check Lombardo’s _Open Jungle_ project
-- [ ] Try to setup May trip
-- [ ] Catchup on emails
+- [ ] Finish first round of JS & CSS talks
+- [ ] Dinner with one of my best friends
+- [ ] Meet a new Recurser
+- [ ] BridgeU game night
+- [ ] Find a way to best keep all my writing drafts (techy and non techy)
+- [ ] Make bone broth
+- [ ] [Victoria Park Half Marathon](https://www.runthrough.co.uk/?event=january-victoria-park-race)
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
 - [ ] Create insightful/fun talks
 - [ ] Release a project related with photography
+- [ ] Running a marathon
 
 ### Backlog: Side Projects & Other Ideas
 - [Ideas](/ideas-and-misc)
@@ -40,6 +40,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [Books](https://www.goodreads.com/review/list/12281514-gon-alo-gon-alo?per_page=infinite&shelf=to-read&utf8=%E2%9C%93)
   - [Technical books](/media/tech-books.md)
   - [To watch](/media/watch.md)
+  - [Music](/media/music.md)
 
 ---
 
