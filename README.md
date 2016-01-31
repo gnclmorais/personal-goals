@@ -11,23 +11,20 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# January 25, 2015
-### This Week's Focus: Finish 1st round of talk proposals
+# February 01, 2015
+### This Week's Focus: Get back to side projects
 
 ## Things I'll do This Week:
-- [ ] Finish first round of JS & CSS talks
-- [ ] Dinner with one of my best friends
-- [ ] Meet a new Recurser
-- [ ] BridgeU game night
-- [ ] Find a way to best keep all my writing drafts (techy and non techy)
-- [ ] Make bone broth
-- [ ] [Victoria Park Half Marathon](https://www.runthrough.co.uk/?event=january-victoria-park-race)
+- [ ] Plan my 100:10:1
+- [ ] Watch Eddie Izzard’s live show
+- [ ] Play board games with Kelly
+- _// the rest will depend on what comes out of 100:10:1_
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
 - [ ] Create insightful/fun talks
 - [ ] Release a project related with photography
-- [ ] Running a marathon
+- [ ] Running a marathon (maybe _the_ marathon, the original)
 
 ### Backlog: Side Projects & Other Ideas
 - [Ideas](/ideas-and-misc)
