@@ -11,14 +11,22 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# February 01, 2015
-### This Week's Focus: Get back to side projects
+# February 08, 2015
+### This Week's Focus: Pack up
 
 ## Things I'll do This Week:
-- [ ] Plan my 100:10:1
-- [ ] Watch Eddie Izzard’s live show
-- [ ] Play board games with Kelly
-- _// the rest will depend on what comes out of 100:10:1_
+- [ ] Pack up for South America
+- [ ] Check possible trip & stay in Calafate
+- [ ] Get Kelly’s present for trip
+- [ ] Finish my 100:10:1
+- [ ] Write a blog post about my 100:10:1
+- [ ] Attend [Sofar Sounds](https://www.sofarsounds.com)
+- [ ] Go to a Tame Impala concert
+- [ ] Check a bit more about all other trips
+- [ ] Finish and submit talks for ScotlandCSS, ScotlandJS, and EmpireJS
+- [ ] Check Pam’s vegan shop
+- [ ] Check Camden Market
+- [ ] Check tickets for Moderat
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
