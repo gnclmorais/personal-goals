@@ -11,22 +11,16 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# February 08, 2015
-### This Week's Focus: Pack up
+# February 22, 2015
+### This Week's Focus: Job-work and project-work
 
 ## Things I'll do This Week:
-- [ ] Pack up for South America
+- [ ] Explore and enjoy Montevideo
+- [ ] Go back to Buenos Aires
+- [ ] Make a pull request for something - [Pull Request Day](http://pullrequestday.com)
 - [ ] Check possible trip & stay in Calafate
-- [ ] Get Kelly’s present for trip
-- [ ] Finish my 100:10:1
-- [ ] Write a blog post about my 100:10:1
-- [ ] Attend [Sofar Sounds](https://www.sofarsounds.com)
-- [ ] Go to a Tame Impala concert
-- [ ] Check a bit more about all other trips
-- [ ] Finish and submit talks for ScotlandCSS, ScotlandJS, and EmpireJS
-- [ ] Check Pam’s vegan shop
-- [ ] Check Camden Market
-- [ ] Check tickets for Moderat
+- [ ] Continue studying ES6
+- [ ] Start working on the 100:10:1 projects (at least planning)
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
