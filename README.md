@@ -11,16 +11,14 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# February 22, 2015
-### This Week's Focus: Job-work and project-work
+# February 29, 2015
+### This Week's Focus: Enjoy the last week of vacation
 
 ## Things I'll do This Week:
-- [ ] Explore and enjoy Montevideo
-- [ ] Go back to Buenos Aires
-- [ ] Make a pull request for something - [Pull Request Day](http://pullrequestday.com)
-- [ ] Check possible trip & stay in Calafate
-- [ ] Continue studying ES6
-- [ ] Start working on the 100:10:1 projects (at least planning)
+- [ ] Hike the [Perito Moreno glacier](https://en.wikipedia.org/wiki/Perito_Moreno_Glacier)
+- [ ] Interview Beni
+- [ ] Take some more photos
+- [ ] Finish reading [_Radical Focus_](https://www.goodreads.com/book/show/28951428-radical-focus)
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
