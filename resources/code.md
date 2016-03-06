@@ -5,3 +5,4 @@
 
 ## JavaScript
 - http://esnextb.in/
+- https://drboolean.gitbooks.io/mostly-adequate-guide/content/ (Functional Programming)

@@ -1,4 +1,4 @@
-# This Weeks Accomplishments: -- date here --
+# This Weeks Accomplishments:
 
 ## This Week's Focus:
 
@@ -7,6 +7,9 @@
 ## Things I Didn't Get to/Finish:
 
 ### Additional Things I Did:
+
+### Musical highlight
+On the _ week of 2016, my favourite musical pick was []() with []().
 
 ## Next Week's Focus:
 

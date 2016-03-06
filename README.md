@@ -11,14 +11,17 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# February 29, 2015
-### This Week's Focus: Enjoy the last week of vacation
+# March 7, 2015
+### This Week's Focus: Get back to side projects
 
 ## Things I'll do This Week:
-- [ ] Hike the [Perito Moreno glacier](https://en.wikipedia.org/wiki/Perito_Moreno_Glacier)
-- [ ] Interview Beni
-- [ ] Take some more photos
-- [ ] Finish reading [_Radical Focus_](https://www.goodreads.com/book/show/28951428-radical-focus)
+- [ ] Write Airbnb reviews
+- [ ] Create & share an ad for my room
+- [ ] Watch [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab)
+- [ ] Submit talk to [Nordic.js](http://nordicjs.com)
+- [ ] Finalise question list for RC related project
+- [ ] Send questions to Beni
+- [ ] Start writing proper code for [Myüzu](https://github.com/gnclmorais/myuzu)
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
