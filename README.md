@@ -28,6 +28,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Create insightful/fun talks
 - [ ] Release a project related with photography
 - [ ] Running a marathon (maybe _the_ marathon, the original)
+- [ ] Learn the [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
 
 ### Backlog: Side Projects & Other Ideas
 - [Ideas](/ideas-and-misc)
