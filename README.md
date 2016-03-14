@@ -11,17 +11,21 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# March 7, 2015
-### This Week's Focus: Get back to side projects
+# March 14, 2015
+### This Week's Focus: Learn Jekyll and put RATW online
 
 ## Things I'll do This Week:
-- [ ] Write Airbnb reviews
-- [ ] Create & share an ad for my room
-- [ ] Watch [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab)
-- [ ] Submit talk to [Nordic.js](http://nordicjs.com)
-- [ ] Finalise question list for RC related project
-- [ ] Send questions to Beni
-- [ ] Start writing proper code for [Myüzu](https://github.com/gnclmorais/myuzu)
+- [ ] Take care of documents for card
+- [ ] Attend meetup event for Hapi
+- [ ] Hang out with Kelly & friends
+- [ ] Dan Deacon concert
+- [ ] Birdeatsbaby concert
+- [ ] Check the Little Festival in Shoreditch
+- [ ] Pay Pam
+- [ ] Pay Beni
+- [ ] Check Jekyl themes
+- [ ] Rollout my own (or a chosen one with mods)
+- [ ] Put RATW online
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
