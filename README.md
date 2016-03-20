@@ -11,21 +11,19 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# March 14, 2015
-### This Week's Focus: Learn Jekyll and put RATW online
+# March 21, 2015
+### This Week's Focus: Get the Jekyll project ready to launch
 
 ## Things I'll do This Week:
-- [ ] Take care of documents for card
-- [ ] Attend meetup event for Hapi
-- [ ] Hang out with Kelly & friends
-- [ ] Dan Deacon concert
-- [ ] Birdeatsbaby concert
-- [ ] Check the Little Festival in Shoreditch
-- [ ] Pay Pam
-- [ ] Pay Beni
-- [ ] Check Jekyl themes
-- [ ] Rollout my own (or a chosen one with mods)
-- [ ] Put RATW online
+- [ ] Attend WeGeek’s gaming event
+- [ ] Find presents for my god-daughter
+- [ ] Move things from one house to another
+- [ ] Pack up & flight to Portugal
+- [ ] Look for a Portuguese translation of [“Meditations”](https://www.goodreads.com/book/show/30659.Meditations)
+- [ ] Get a service to write down Agustín’s transcript
+- [ ] Keep customising my Jekyll theme
+- [ ] Figure out how to protect soem pages behind OAuth
+- [ ] Get tickets for the Coffee Festival
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
