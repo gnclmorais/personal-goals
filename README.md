@@ -11,19 +11,19 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# March 21, 2015
-### This Week's Focus: Get the Jekyll project ready to launch
+# March 28, 2015
+### This Week's Focus: Keep a healthy routine
 
 ## Things I'll do This Week:
-- [ ] Attend WeGeek’s gaming event
-- [ ] Find presents for my god-daughter
-- [ ] Move things from one house to another
-- [ ] Pack up & flight to Portugal
+- [ ] Work remotely
+- [ ] Get a new citizenship card
+- [ ] Get a birthday present for my dad
+- [ ] Submit more talks
+- [ ] Keep working on RATW
+- [ ] Fly back to London
+- [ ] Clean & organise my new room
 - [ ] Look for a Portuguese translation of [“Meditations”](https://www.goodreads.com/book/show/30659.Meditations)
 - [ ] Get a service to write down Agustín’s transcript
-- [ ] Keep customising my Jekyll theme
-- [ ] Figure out how to protect soem pages behind OAuth
-- [ ] Get tickets for the Coffee Festival
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
