@@ -11,19 +11,17 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# March 28, 2015
-### This Week's Focus: Keep a healthy routine
+# April 04, 2015
+### This Week's Focus: Publish RATW
 
 ## Things I'll do This Week:
-- [ ] Work remotely
-- [ ] Get a new citizenship card
-- [ ] Get a birthday present for my dad
-- [ ] Submit more talks
-- [ ] Keep working on RATW
-- [ ] Fly back to London
-- [ ] Clean & organise my new room
-- [ ] Look for a Portuguese translation of [“Meditations”](https://www.goodreads.com/book/show/30659.Meditations)
-- [ ] Get a service to write down Agustín’s transcript
+- [ ] Finish a first version of RATW
+- [ ] Get missing things from previous house
+- [ ] Help Francesco with out meetup
+- [ ] Hang out with Serena
+- [ ] 5K Spartan Race
+- [ ] London Coffee Festival
+- [ ] Waking Aida concert
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
