@@ -11,17 +11,17 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# April 04, 2015
-### This Week's Focus: Publish RATW
+# April 11, 2015
+### This Week's Focus: Get my new house stable
 
 ## Things I'll do This Week:
-- [ ] Finish a first version of RATW
-- [ ] Get missing things from previous house
-- [ ] Help Francesco with out meetup
-- [ ] Hang out with Serena
-- [ ] 5K Spartan Race
-- [ ] London Coffee Festival
-- [ ] Waking Aida concert
+- [ ] Review past meetup and plan upcoming events
+- [ ] Watch ‘The Phantom of the Opera’ again
+- [ ] Kero Kero Bonito concert
+- [ ] Maybeshewill concert
+- [ ] Hang out with Zé Carlos and Costa
+- [ ] Dinner with Kelly
+- [ ] Review Agustín’s transcript
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
