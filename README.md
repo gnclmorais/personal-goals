@@ -11,16 +11,15 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# April 11, 2015
-### This Week's Focus: Get my new house stable
+# April 18, 2015
+### This Week's Focus: Enjoy RenderConf
 
 ## Things I'll do This Week:
-- [ ] Review past meetup and plan upcoming events
-- [ ] Watch ‘The Phantom of the Opera’ again
-- [ ] Kero Kero Bonito concert
-- [ ] Maybeshewill concert
-- [ ] Hang out with Zé Carlos and Costa
-- [ ] Dinner with Kelly
+- [ ] Dinner with Costa
+- [ ] Magic: The Gathering booster draft
+- [ ] RenderConf @ Oxford
+- [ ] Zelda concert
+- [ ] Secret Cinema presents ‘28 Days Later’
 - [ ] Review Agustín’s transcript
 
 ### Things I'll Do in the Future:
