@@ -11,16 +11,18 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# April 18, 2015
-### This Week's Focus: Enjoy RenderConf
+# April 25, 2015
+### This Week's Focus: Advance RATW and BridgeU’s JS
 
 ## Things I'll do This Week:
-- [ ] Dinner with Costa
-- [ ] Magic: The Gathering booster draft
-- [ ] RenderConf @ Oxford
-- [ ] Zelda concert
-- [ ] Secret Cinema presents ‘28 Days Later’
-- [ ] Review Agustín’s transcript
+- [ ] Play board games @ BridgeU
+- [ ] Mouse On The Keys concert
+- [ ] Hiatus Kaiyote concert
+- [ ] _Gaki no Tsukai_ marathon
+- [ ] Responsive images for RATW
+- [ ] Bring proper JS file structure to my job
+- [ ] Pay rent
+- [ ] Submit a few more talks
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
