@@ -12,17 +12,18 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :pencil: Write more
 
 # April 25, 2015
-### This Week's Focus: Advance RATW and BridgeU’s JS
+### This Week's Focus: Get RATW ready for RC launch
 
 ## Things I'll do This Week:
-- [ ] Play board games @ BridgeU
-- [ ] Mouse On The Keys concert
-- [ ] Hiatus Kaiyote concert
-- [ ] _Gaki no Tsukai_ marathon
-- [ ] Responsive images for RATW
-- [ ] Bring proper JS file structure to my job
-- [ ] Pay rent
-- [ ] Submit a few more talks
+- [ ] Enjoy the bank holiday
+- [ ] Start bouldering
+- [ ] Fly to New York
+- [ ] Attend [!!Con](http://bangbangcon.com)
+- [ ] Kero Kero Bonito and Crystal Castles concert @ NYC
+- [ ] Meet with old & new Recursers
+- [ ] Give my regards to Luís Carlos
+- [ ] Make sure RATW is ready for a 1.0 launch
+- [ ] Draft a progress plan to Awilda
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
