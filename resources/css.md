@@ -5,3 +5,6 @@
 
 ## Interesting libraries and frameworks
 - [Bulma](http://bulma.io)
+
+## Devices
+- http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions

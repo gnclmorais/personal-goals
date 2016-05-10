@@ -11,19 +11,18 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# April 25, 2015
-### This Week's Focus: Get RATW ready for RC launch
+# May 09, 2015
+### This Week's Focus: Meet old & new people
 
 ## Things I'll do This Week:
-- [ ] Enjoy the bank holiday
-- [ ] Start bouldering
-- [ ] Fly to New York
-- [ ] Attend [!!Con](http://bangbangcon.com)
-- [ ] Kero Kero Bonito and Crystal Castles concert @ NYC
-- [ ] Meet with old & new Recursers
-- [ ] Give my regards to Luís Carlos
-- [ ] Make sure RATW is ready for a 1.0 launch
-- [ ] Draft a progress plan to Awilda
+- [ ] Meet old & new Recursers
+- [ ] Do an artsy project in a week
+- [ ] Pair a few times
+- [ ] Walk a lot in New York
+- [ ] Work more on Awilda’s list
+- [ ] Go back to London
+- [ ] Buy domain for RATW
+- [ ] Present RATW
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
