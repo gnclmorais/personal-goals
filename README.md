@@ -12,17 +12,14 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :pencil: Write more
 
 # May 09, 2015
-### This Week's Focus: Meet old & new people
+### This Week's Focus: Catch-up on sleep and release RATW
 
 ## Things I'll do This Week:
-- [ ] Meet old & new Recursers
-- [ ] Do an artsy project in a week
-- [ ] Pair a few times
-- [ ] Walk a lot in New York
-- [ ] Work more on Awilda’s list
-- [ ] Go back to London
-- [ ] Buy domain for RATW
-- [ ] Present RATW
+- [ ] Catch up on sleep
+- [ ] Keep running
+- [ ] Release RATW
+- [ ] Update Flickell
+- [ ] The Joy Formidable concert
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
