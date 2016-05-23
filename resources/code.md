@@ -7,3 +7,7 @@
 ## JavaScript
 - http://esnextb.in/
 - https://drboolean.gitbooks.io/mostly-adequate-guide/content/ (Functional Programming)
+
+## Tools
+- https://github.com/mattdesl/budo
+- https://github.com/wesbos/browser-sync-remote-example

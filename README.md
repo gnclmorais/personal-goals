@@ -11,15 +11,15 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# May 09, 2015
-### This Week's Focus: Catch-up on sleep and release RATW
+# May 23, 2015
+### This Week's Focus: Start the next project
 
 ## Things I'll do This Week:
-- [ ] Catch up on sleep
-- [ ] Keep running
-- [ ] Release RATW
-- [ ] Update Flickell
-- [ ] The Joy Formidable concert
+- [ ] Cook with Kelly
+- [ ] Call dentist
+- [ ] Pho with friends
+- [ ] Meet with Nano
+- [ ] Start new project
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
