@@ -11,15 +11,18 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# May 23, 2015
-### This Week's Focus: Start the next project
+# May 30, 2015
+### This Week's Focus: Keep coding on the new project
 
 ## Things I'll do This Week:
-- [ ] Cook with Kelly
+- [ ] Do bouldering 3 times
+- [ ] Run 3 times
+- [ ] Plan June 10th
 - [ ] Call dentist
-- [ ] Pho with friends
-- [ ] Meet with Nano
-- [ ] Start new project
+- [ ] Check for your suit
+- [ ] Go to WeGeek event
+- [ ] Get out of the house on the weekend
+- [ ] Pair with Awilda
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
