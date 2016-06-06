@@ -1,4 +1,3 @@
 # Music
 
 ## Artists & bands
-

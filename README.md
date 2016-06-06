@@ -11,18 +11,23 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# May 30, 2015
-### This Week's Focus: Keep coding on the new project
+# June 06, 2015
+### This Week's Focus: Get some time off to enjoy music
 
 ## Things I'll do This Week:
-- [ ] Do bouldering 3 times
-- [ ] Run 3 times
+- [ ] Send postcard to my daughter-in-law
+- [ ] Send coffee to Laura
+- [ ] Send t-shirt to Nano
+- [ ] Send suit to clean
 - [ ] Plan June 10th
-- [ ] Call dentist
-- [ ] Check for your suit
-- [ ] Go to WeGeek event
-- [ ] Get out of the house on the weekend
-- [ ] Pair with Awilda
+- [ ] Host dev meetup
+- [ ] Flight to Portugal
+- [ ] Spend a day at NOS Primavera Sound
+- [ ] Get chocolates with Port inside
+- [ ] Ace Susana’s wedding
+- [ ] Fly back to London
+- [ ] Possibly check dentist
+- [ ] Work what I can on upcoming interview for RATW
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
