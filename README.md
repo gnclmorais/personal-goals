@@ -11,23 +11,20 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# June 06, 2015
-### This Week's Focus: Get some time off to enjoy music
+# August 08, 2015
+### This Week's Focus: Get some work done despite busy week
 
 ## Things I'll do This Week:
-- [ ] Send postcard to my daughter-in-law
-- [ ] Send coffee to Laura
-- [ ] Send t-shirt to Nano
-- [ ] Send suit to clean
-- [ ] Plan June 10th
-- [ ] Host dev meetup
-- [ ] Flight to Portugal
-- [ ] Spend a day at NOS Primavera Sound
-- [ ] Get chocolates with Port inside
-- [ ] Ace Susana’s wedding
-- [ ] Fly back to London
-- [ ] Possibly check dentist
-- [ ] Work what I can on upcoming interview for RATW
+- [ ] Check trip to Paris
+- [ ] Check trip to Netherlands
+- [ ] Midnight Runners’ 10k
+- [ ] Saying goodbye to Antonio
+- [ ] Shit-Faced Shakespeare
+- [ ] Company bonding
+- [ ] Batsu Marathon
+- [ ] Linz @ London
+- [ ] Jesus Christ Superstar
+- [ ] Work a bit more on Myūzu
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
