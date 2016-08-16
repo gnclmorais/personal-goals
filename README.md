@@ -11,20 +11,17 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# August 08, 2015
-### This Week's Focus: Get some work done despite busy week
+# August 15, 2015
+### This Week's Focus: Hang out with Ricardo
 
 ## Things I'll do This Week:
 - [ ] Check trip to Paris
-- [ ] Check trip to Netherlands
-- [ ] Midnight Runners’ 10k
-- [ ] Saying goodbye to Antonio
-- [ ] Shit-Faced Shakespeare
-- [ ] Company bonding
-- [ ] Batsu Marathon
-- [ ] Linz @ London
-- [ ] Jesus Christ Superstar
+- [ ] Check more info about trip to Netherlands
+- [ ] Midnight Runners’ 10k with friends
+- [ ] GY!BE concert
+- [ ] Long run (possibly trail)
 - [ ] Work a bit more on Myūzu
+- [ ] Clean the house
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
