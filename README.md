@@ -11,17 +11,17 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# August 15, 2015
-### This Week's Focus: Hang out with Ricardo
+# August 22, 2015
+### This Week's Focus: Enjoy the Netherlands
 
 ## Things I'll do This Week:
+- [ ] Bouldering a couple of times
+- [ ] 10k with Midnight Runners
 - [ ] Check trip to Paris
-- [ ] Check more info about trip to Netherlands
-- [ ] Midnight Runners’ 10k with friends
-- [ ] GY!BE concert
-- [ ] Long run (possibly trail)
-- [ ] Work a bit more on Myūzu
 - [ ] Clean the house
+- [ ] Check coin-change problem
+- [ ] Meet friends at the Netherlands
+- [ ] Work a bit more on Myūzu
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
