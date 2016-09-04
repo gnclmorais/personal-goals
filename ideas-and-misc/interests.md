@@ -4,7 +4,7 @@
 - Running (across Europe)
 - [Barista training](http://doppiocoffee.co.uk/training)
 - Qi Gong
-- Sing dancing
+- [Sing dancing](http://www.swingpatrol.co.uk/class-timetable/)
 - [Cold-reading](https://en.wikipedia.org/wiki/Cold_reading)
 - [Neuro-linguistic programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming)
 - Massages
@@ -16,4 +16,3 @@
 - Fasting
 - Yoga (specially DDP)
 - [Cynefin Framework](http://cognitive-edge.com/videos/cynefin-framework-introduction/)
-

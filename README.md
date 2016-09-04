@@ -11,17 +11,18 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# August 22, 2015
-### This Week's Focus: Enjoy the Netherlands
+# September 05, 2015
+### This Week's Focus: Pack for Albania
 
 ## Things I'll do This Week:
-- [ ] Bouldering a couple of times
-- [ ] 10k with Midnight Runners
-- [ ] Check trip to Paris
-- [ ] Clean the house
-- [ ] Check coin-change problem
-- [ ] Meet friends at the Netherlands
-- [ ] Work a bit more on Myūzu
+- [ ] Rest
+- [ ] Check Paris trip
+- [ ] Midnight Runners 10k at Tuesday, as usual
+- [ ] Fly to Tirana
+- [ ] Work remotely
+- [ ] Attend Erisa’s wedding
+- [ ] Check Tirana
+- [ ] Find time to work on side projects
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
