@@ -11,18 +11,15 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# September 05, 2015
-### This Week's Focus: Pack for Albania
+# September 12, 2015
+### This Week's Focus: Enjoy Albania
 
 ## Things I'll do This Week:
-- [ ] Rest
-- [ ] Check Paris trip
-- [ ] Midnight Runners 10k at Tuesday, as usual
-- [ ] Fly to Tirana
-- [ ] Work remotely
-- [ ] Attend Erisa’s wedding
-- [ ] Check Tirana
-- [ ] Find time to work on side projects
+- [ ] Check Shkodra
+- [ ] Check Valbone
+- [ ] Check Prizren (in Kosovo)
+- [ ] Check more of Tirana
+- [ ] Have brunch back in London
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
