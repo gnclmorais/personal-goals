@@ -15,13 +15,15 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus: Get back to routine productivity
 
 ## Things I'll do This Week:
-- [ ] Do laundry
+- [ ] Hang out with Gavina and Diana
+- [ ] Lunch with Serena
 - [ ] Midnight Runners 10k
-- [ ] Mammal Hands concert
-- [ ] Grandbrothers concert
-- [ ] Sunday long run
-- [ ] Björk Digital exposition
-- [ ] Hang out with Carlos once more
+- [ ] Welcome Maksim at BridgEU
+- [ ] Moderat concert
+- [ ] Fly to Lisbon
+- [ ] Lisbon 10k with Midnight Runners
+- [ ] Rock ‘n’ Roll Lisbon half marathon
+- [ ] Find some time to work on D3
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
