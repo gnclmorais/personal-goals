@@ -12,18 +12,13 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :pencil: Write more
 
 # September 19, 2015
-### This Week's Focus: Get back to routine productivity
+### This Week's Focus: Be productive at my village
 
 ## Things I'll do This Week:
-- [ ] Hang out with Gavina and Diana
-- [ ] Lunch with Serena
-- [ ] Midnight Runners 10k
-- [ ] Welcome Maksim at BridgEU
-- [ ] Moderat concert
-- [ ] Fly to Lisbon
-- [ ] Lisbon 10k with Midnight Runners
-- [ ] Rock ‘n’ Roll Lisbon half marathon
-- [ ] Find some time to work on D3
+- [ ] Work from home
+- [ ] Run a couple of times
+- [ ] Fly back to London
+- [ ] Meet friends on Sunday
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
