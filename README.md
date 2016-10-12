@@ -11,14 +11,17 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# September 19, 2015
-### This Week's Focus: Be productive at my village
+# October 10, 2016
+### This Week's Focus: Work a few hours on a side project
 
 ## Things I'll do This Week:
-- [ ] Work from home
-- [ ] Run a couple of times
-- [ ] Fly back to London
-- [ ] Meet friends on Sunday
+- [ ] Work on my Slack tool
+- [ ] Showstopper! The Improvised Musical
+- [ ] The usual Tuesday 10k with Midnight Runners
+- [ ] Explosions In The Sky
+- [ ] Meet Pam!
+- [ ] [Midnight-to-Midnight](http://midnight-to-midnight.com)
+- [ ] Check Paris trip
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
