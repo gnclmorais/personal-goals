@@ -11,17 +11,16 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# October 10, 2016
-### This Week's Focus: Work a few hours on a side project
+# October 17, 2016
+### This Week's Focus: Find time for side projects
 
 ## Things I'll do This Week:
-- [ ] Work on my Slack tool
-- [ ] Showstopper! The Improvised Musical
-- [ ] The usual Tuesday 10k with Midnight Runners
-- [ ] Explosions In The Sky
-- [ ] Meet Pam!
-- [ ] [Midnight-to-Midnight](http://midnight-to-midnight.com)
-- [ ] Check Paris trip
+- [ ] 10k with Midnight Runners
+- [ ] Dinner @ Sam’s
+- [ ] Dinner with M
+- [ ] Harry Potter Studios
+- [ ] Work a bit on side projects
+- [ ] Hang out with Serena and Pam
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
