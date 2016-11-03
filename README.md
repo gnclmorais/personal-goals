@@ -11,16 +11,19 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# October 17, 2016
-### This Week's Focus: Find time for side projects
+# October 31, 2016
+### This Week's Focus: Get a few interesting lightning talks
 
 ## Things I'll do This Week:
-- [ ] 10k with Midnight Runners
-- [ ] Dinner @ Sam’s
-- [ ] Dinner with M
-- [ ] Harry Potter Studios
-- [ ] Work a bit on side projects
-- [ ] Hang out with Serena and Pam
+- [ ] Shave for Movember
+- [ ] Have dinner with Gavina and Diana
+- [ ] Skip MR for James Blake concert
+- [ ] Local Natives concert
+- [ ] Work remotely
+- [ ] Boulder a few times
+- [ ] Run outside of MR
+- [ ] GoGo Penguin concert
+- [ ] Long run with MR
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
