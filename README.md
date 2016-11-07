@@ -11,19 +11,16 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# October 31, 2016
-### This Week's Focus: Get a few interesting lightning talks
+# November 07, 2016
+### This Week's Focus: Get back to side projects
 
 ## Things I'll do This Week:
-- [ ] Shave for Movember
-- [ ] Have dinner with Gavina and Diana
-- [ ] Skip MR for James Blake concert
-- [ ] Local Natives concert
-- [ ] Work remotely
-- [ ] Boulder a few times
-- [ ] Run outside of MR
-- [ ] GoGo Penguin concert
-- [ ] Long run with MR
+- [ ] Come up with several dotJS/dotCSS lightning talks
+- [ ] Dinner and movie with housemate
+- [ ] Midnight Runners’ 10k
+- [ ] Chet Faker concert
+- [ ] Hang out with Nathaniel
+- [ ] Get back to side projects
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
