@@ -11,16 +11,22 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Get into photography
 1. :pencil: Write more
 
-# November 07, 2016
-### This Week's Focus: Get back to side projects
+# Draft goals for 2017: _something, something_
+1. :thought: Meditation
+
+
+# November 14, 2016
+### This Week's Focus: Get some more rest
 
 ## Things I'll do This Week:
 - [ ] Come up with several dotJS/dotCSS lightning talks
-- [ ] Dinner and movie with housemate
-- [ ] Midnight Runners’ 10k
-- [ ] Chet Faker concert
-- [ ] Hang out with Nathaniel
-- [ ] Get back to side projects
+- [ ] Showstopper!
+- [ ] Midnight Runners 10k
+- [ ] Run in the Dark
+- [ ] Caravan Palace
+- [ ] Japanese dinner and trip discussion
+- [ ] Hangout with João & rest of people
+- [ ] Rest, for God sake
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
