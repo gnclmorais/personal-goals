@@ -15,18 +15,17 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :thought: Meditation
 
 
-# November 14, 2016
-### This Week's Focus: Get some more rest
+# November 21, 2016
+### This Week's Focus: Be honest with yourself
 
 ## Things I'll do This Week:
 - [ ] Come up with several dotJS/dotCSS lightning talks
-- [ ] Showstopper!
+- [ ] Welcome drinks to Jess
 - [ ] Midnight Runners 10k
-- [ ] Run in the Dark
-- [ ] Caravan Palace
-- [ ] Japanese dinner and trip discussion
-- [ ] Hangout with João & rest of people
-- [ ] Rest, for God sake
+- [ ] Thanksgiving dinner
+- [ ] Monthly Midnight Runners Friday run, Matrix
+- [ ] Craft beer festival
+- [ ] Dinner @ Nuno’s
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
