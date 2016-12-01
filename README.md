@@ -15,8 +15,8 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :thought: Meditation
 
 
-# November 21, 2016
-### This Week's Focus: Be honest with yourself
+# November 28, 2016
+### This Week's Focus: Write the talk
 
 ## Things I'll do This Week:
 - [ ] Come up with several dotJS/dotCSS lightning talks
