@@ -15,18 +15,16 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :thought: Meditation
 
 
-# December 05, 2016
-### This Week's Focus: Sort things out before Christmas
+# December 19, 2016
+### This Week's Focus: Enjoy Christmas
 
 ## Things I'll do This Week:
-- [ ] Give a lightning talk at dotJS, Paris
-- [ ] Go back to London
-- [ ] Get BridgeU’s Secret Santa present
-- [ ] Get present for goddaughter
-- [ ] Midnight Runners 10k
-- [ ] Spend some time with M before Christmas
-- [ ] Mom’s birthday
-- [ ] Clean dotJS presentation and publish it
+- [ ] Configure RPi a bit more
+- [ ] Write & publish binary article
+- [ ] Gavina’s dinner
+- [ ] Tixa’s dinner
+- [ ] Run at least twice
+- [ ] Buy a few Christmas presents
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
