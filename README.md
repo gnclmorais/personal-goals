@@ -12,19 +12,20 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :pencil: Write more
 
 # Draft goals for 2017: _something, something_
+1. Run (at least) one marathon
 1. :thought: Meditation
 
 
-# December 19, 2016
-### This Week's Focus: Enjoy Christmas
+# December 26, 2016
+### This Week's Focus: Get back to a healthy routine
 
 ## Things I'll do This Week:
-- [ ] Configure RPi a bit more
-- [ ] Write & publish binary article
-- [ ] Gavina’s dinner
-- [ ] Tixa’s dinner
-- [ ] Run at least twice
-- [ ] Buy a few Christmas presents
+- [ ] Go back to London
+- [ ] Midnight Runners
+- [ ] Clean my suit
+- [ ] Lesson with Kelly
+- [ ] Boulder a couple of times
+- [ ] Celebrate NYE
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
