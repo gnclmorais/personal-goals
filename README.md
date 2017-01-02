@@ -3,29 +3,14 @@ Personal Goals
 
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about the original project by [Una Kravets](https://github.com/una) [here](http://una.im/personal-goals-guide/). Her [talk at 2015’s BeyondConf](http://2015.beyondconf.co/schedule/#anchor-una) brought this project to my attention.
 
-# Goals for 2016: _Stop drifting, start swimming_
-1. :running: Running
-1. :wrench: Build/break/ship things
-1. :computer: [ABC](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2)
-1. :books: [Read more](https://www.goodreads.com/user_challenges/3802063)
-1. :camera: Get into photography
-1. :pencil: Write more
+# Goals for 2017: _Focus more on less_
+1. :jp: Learn Japanese
+1. :camera: Focus more into photography
+1. :running: Running (at least) one marathon
+1. :book: Read [The Ultimate Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy)
 
-# Draft goals for 2017: _something, something_
-1. Run (at least) one marathon
-1. :thought: Meditation
-
-
-# December 26, 2016
-### This Week's Focus: Get back to a healthy routine
-
-## Things I'll do This Week:
-- [ ] Go back to London
-- [ ] Midnight Runners
-- [ ] Clean my suit
-- [ ] Lesson with Kelly
-- [ ] Boulder a couple of times
-- [ ] Celebrate NYE
+# For the whole of 2017
+### This Years's Focus: Use Trello instead to plan things
 
 ### Things I'll Do in the Future:
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
