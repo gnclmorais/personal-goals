@@ -8,6 +8,8 @@ Personal goals made open source for accessibility across computers I use, transp
 1. :camera: Focus more into photography
 1. :running: Running (at least) one marathon
 1. :book: Read [The Ultimate Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy)
+1. :no_good: No more crisps
+1. :thought_balloon: Solidify knowledge and write about it
 
 # For the whole of 2017
 ### This Years's Focus: Use Trello instead to plan things
