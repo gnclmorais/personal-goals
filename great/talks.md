@@ -2,6 +2,7 @@
 
 ## Software design
 - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
+- [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 
 ## JavaScript
 - [JSConf EU 2017: Let's go big (Big numbers in JavaScript)](https://www.youtube.com/watch?v=9SHOfZI_SsM)  
