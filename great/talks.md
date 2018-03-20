@@ -11,3 +11,7 @@
 ## Ruby
 - [RailsConf 2017: In Relentless Pursuit of REST by Derek Prior](https://www.youtube.com/watch?v=HctYHe-YjnE)  
   `rest`
+
+## Code reviews
+- RailsConf 2015 - Implementing a Strong Code-Review Culture[](https://www.youtube.com/watch?v=PJjmw9TRB7s)  
+  `code review`

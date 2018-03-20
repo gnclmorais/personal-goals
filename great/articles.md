@@ -8,3 +8,7 @@
 ## Ruby on Rails
 - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)  
   `REST`
+
+## Team work
+- [Your Work is Starstuff](http://joelcalifa.com/blog/your-work-is-starstuff/)  
+  `team work`, `product`
