@@ -6,6 +6,8 @@
   `complexity`
 - [RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)  
   `refactor` `ruby` `oo`
+- [Sandi Metz - SOLID Design Principle in Ruby](https://www.youtube.com/watch?v=8STtzjyDTTQ)  
+  `refactor` `ruby` `oo`
 
 ## JavaScript
 - [JSConf EU 2017: Let's go big (Big numbers in JavaScript)](https://www.youtube.com/watch?v=9SHOfZI_SsM)  
