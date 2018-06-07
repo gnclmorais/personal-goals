@@ -20,3 +20,7 @@
 ## Code reviews
 - [RailsConf 2015 - Implementing a Strong Code-Review Culture](https://www.youtube.com/watch?v=PJjmw9TRB7s)  
   `code review`
+
+## Team building
+- [RubyConf 2017: Keynote - You're Insufficiently Persuasive by Sandi Metz](https://www.youtube.com/watch?v=VzWLGMtXflg)  
+  `teams` `happiness`
