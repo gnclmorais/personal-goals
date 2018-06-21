@@ -15,3 +15,7 @@
 ## Team work
 - [Your Work is Starstuff](http://joelcalifa.com/blog/your-work-is-starstuff/)  
   `team work`, `product`
+
+## Retrospectives
+- [How we run project retrospectives at Intercom](https://blog.intercom.com/how-we-conduct-project-retrospectives-at-intercom/)  
+  `retrospective`
