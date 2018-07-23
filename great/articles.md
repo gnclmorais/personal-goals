@@ -15,3 +15,5 @@
 ## Team work
 - [Your Work is Starstuff](http://joelcalifa.com/blog/your-work-is-starstuff/)  
   `team work`, `product`
+- [An introvert’s guide to collaboration](https://ux.shopify.com/an-introverts-guide-to-collaboration-67717d8e03eb)  
+  `team work`, `collaboration`
