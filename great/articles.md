@@ -22,6 +22,10 @@
 - [An introvert’s guide to collaboration](https://ux.shopify.com/an-introverts-guide-to-collaboration-67717d8e03eb)  
   `team work`, `collaboration`
 
+## Code reviews
+- [Code Review Review is the Manager’s Job](https://hecate.co/blog/code-review-review-is-the-managers-job) . 
+  `code review`, `management` 
+
 ## Retrospectives
 - [How we run project retrospectives at Intercom](https://blog.intercom.com/how-we-conduct-project-retrospectives-at-intercom/)  
   `retrospective`
