@@ -5,6 +5,9 @@
 - [MCSS - Multilayer CSS](http://operatino.github.io/MCSS/en/)
 - [iotaCSS](https://www.iotacss.com)
 
+## Functional/Utility-First
+- [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)
+
 ## Auditing
 - https://csswizardry.com/2017/02/base64-encoding-and-performance/
 
