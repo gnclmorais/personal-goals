@@ -16,6 +16,8 @@
 ## Ruby
 - [RailsConf 2017: In Relentless Pursuit of REST by Derek Prior](https://www.youtube.com/watch?v=HctYHe-YjnE)  
   `rest`
+- [Ruby Midwest 2011: Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ) . 
+  `robustness` `clean code`
 
 ## Code reviews
 - [RailsConf 2015 - Implementing a Strong Code-Review Culture](https://www.youtube.com/watch?v=PJjmw9TRB7s)  
