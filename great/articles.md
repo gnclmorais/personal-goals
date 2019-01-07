@@ -23,8 +23,10 @@
   `team work`, `collaboration`
 
 ## Code reviews
-- [Code Review Review is the Manager’s Job](https://hecate.co/blog/code-review-review-is-the-managers-job) . 
+- [Code Review Review is the Manager’s Job](https://hecate.co/blog/code-review-review-is-the-managers-job)  
   `code review`, `management` 
+- [The Art of Giving and Receiving Code Reviews (Gracefully)](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)  
+  `code review`, `feedback` 
 
 ## Retrospectives
 - [How we run project retrospectives at Intercom](https://blog.intercom.com/how-we-conduct-project-retrospectives-at-intercom/)  
