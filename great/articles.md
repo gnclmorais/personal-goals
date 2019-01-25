@@ -4,6 +4,10 @@
 - [git log – the Good Parts](https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/)  
   `log`
 
+## Hiring
+- [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/) ([discussion](https://news.ycombinator.com/item?id=18955731))  
+  `job offers`, `talent`
+
 ## Software Engineering
 - [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)  
   `abstraction`, `duplication`
