@@ -30,3 +30,6 @@
 ## Team building
 - [RubyConf 2017: Keynote - You're Insufficiently Persuasive by Sandi Metz](https://www.youtube.com/watch?v=VzWLGMtXflg)  
   `teams` `happiness`
+
+## Side projects
+- [RailsConf 2019 - The Selfish Programmer by Justin Searls](https://www.youtube.com/watch?v=k5thkp4ZXSI)
