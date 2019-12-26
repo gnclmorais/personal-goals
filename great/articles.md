@@ -1,5 +1,8 @@
 # Articles and blog posts
 
+## Writing
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+
 ## Git
 - [git log – the Good Parts](https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/)  
   `log`
