@@ -13,5 +13,7 @@
   `architecture` `biology` `seeds` `conviction`
 
 ## Cross-disciplinary
+- [99% Invisible - #369 Wait Wait…Tell Me!](https://99percentinvisible.org/episode/wait-wait-tell-me/)  
+  `waiting` `perception`
 - [99% Invisible - #370 The Pool and the Stream Redux](https://99percentinvisible.org/episode/the-pool-and-the-stream-redux/)  
   `architecture` `skating`
