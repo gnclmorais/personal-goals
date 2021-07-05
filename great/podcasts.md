@@ -3,6 +3,8 @@
 ## Life
 - [Hurry Up and Fail — Tim Kennedy](https://tim.blog/2018/04/22/tim-kennedy/)  
   `fear` `tim ferriss`
+- [Holocaust Survivor Dr. Edith Eger on the Gift of Forgiveness](https://pca.st/episode/28b035f7-b083-448a-a9ee-0cdc92c54b48)  
+  `compassion` `daily stoic`
 
 ## Money & cryptocurrencies
 - [The Quiet Master of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/)  
